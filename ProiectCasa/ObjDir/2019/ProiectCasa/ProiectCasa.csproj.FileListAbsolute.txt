@@ -1,0 +1,7 @@
+D:\UNI\Anul2\Semestrul2\Canam\ProiectCasa\ProiectCasa\bin\Debug\ProiectCasa.exe.config
+D:\UNI\Anul2\Semestrul2\Canam\ProiectCasa\ProiectCasa\bin\Debug\ProiectCasa.exe
+D:\UNI\Anul2\Semestrul2\Canam\ProiectCasa\ProiectCasa\bin\Debug\ProiectCasa.pdb
+D:\UNI\Anul2\Semestrul2\Canam\ProiectCasa\ObjDir\2019\ProiectCasa\ProiectCasa.csprojAssemblyReference.cache
+D:\UNI\Anul2\Semestrul2\Canam\ProiectCasa\ObjDir\2019\ProiectCasa\ProiectCasa.csproj.CoreCompileInputs.cache
+D:\UNI\Anul2\Semestrul2\Canam\ProiectCasa\ObjDir\2019\ProiectCasa\ProiectCasa.exe
+D:\UNI\Anul2\Semestrul2\Canam\ProiectCasa\ObjDir\2019\ProiectCasa\ProiectCasa.pdb
